@@ -175,7 +175,6 @@ function update() {
 }
 
 function draw() {
-
     ctx.clearRect(0, 0, 570, 498)
 
     ctx.beginPath()
